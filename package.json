@@ -1,0 +1,11 @@
+{
+  "name": "denosay",
+  "version": "1.0.0",
+  "description": "deno want to says something and it needs some input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "revoltez",
+  "license": "ISC"
+}
