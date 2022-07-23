@@ -14,5 +14,5 @@
 		"denosay": "./denosay.js"
 	},
 	"author": "revoltez",
-	"license": "ISC"
+	"license": "MIT"
 }
